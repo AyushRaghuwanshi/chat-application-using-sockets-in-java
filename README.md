@@ -1,5 +1,5 @@
 # chat-application-using-sockets-in-java
-#one to one chat application using sockets in java in which any one can send messages from server side and cliend side in any order.
+#one to one chat application using sockets in java in which anyone can send messages from server side and cliend side in any order.
 </br>
 #ip used = local host(127.0.0.1) , port used = 5000.
 </br>
